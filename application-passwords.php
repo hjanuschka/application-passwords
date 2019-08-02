@@ -4,7 +4,7 @@
  * Plugin URI: http://github.com/georgestephanis/application-passwords/
  * Description: A prototype framework to add application passwords to core.
  * Author: George Stephanis
- * Version: 0.1-dev
+ * Version: 0.1
  * Author URI: http://stephanis.info
  */
 
